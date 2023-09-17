@@ -6,6 +6,7 @@
 	  <class name="Amazon.Login"/>
       <class name="Amazon.AddProductToCart"/>
       <class name="Amazon.SearchProduct"/>
+      <class name="Amazon.BuyProduct"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
